@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>timer-10-active</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="timer-10-active">
+            <circle id="Oval" fill="#000000" cx="25" cy="25" r="25"></circle>
+            <circle id="Oval" stroke="#FFD800" cx="23" cy="24" r="14.5"></circle>
+            <rect id="Rectangle" fill="#000000" x="23" y="28" width="20" height="12" rx="4.5"></rect>
+            <text id="10" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="0.9" fill="#FFD800">
+                <tspan x="25" y="38">10</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

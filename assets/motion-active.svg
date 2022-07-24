@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>motion-active</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="motion-active">
+            <circle id="Oval" fill="#000000" cx="25" cy="25" r="25"></circle>
+            <rect id="Rectangle" stroke="#FFD800" x="10.5" y="10.5" width="29" height="29" rx="8"></rect>
+            <rect id="Rectangle" fill="#000000" x="31" y="17" width="16" height="16"></rect>
+            <g id="play" transform="translate(33.840000, 19.800000)" stroke="#FFD800">
+                <rect id="Rectangle" x="0.66" y="0.7" width="1" height="8.6" rx="0.5"></rect>
+                <rect id="Rectangle-Copy" transform="translate(4.250786, 7.114645) rotate(58.000000) translate(-4.250786, -7.114645) " x="4.25078568" y="2.91464459" width="1" height="8.4" rx="0.5"></rect>
+                <rect id="Rectangle-Copy-2" transform="translate(4.190416, 2.708013) rotate(-60.000000) translate(-4.190416, -2.708013) " x="4.19041559" y="-1.3419873" width="1" height="8.1" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

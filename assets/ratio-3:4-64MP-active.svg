@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ratio-3:4-64MP-active</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ratio-3:4-64MP-active">
+            <circle id="Oval" fill="#000000" cx="25" cy="25" r="25"></circle>
+            <rect id="Rectangle" fill="#FFD800" x="6" y="23" width="37" height="16" rx="3"></rect>
+            <text id="3:4" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="0.9" fill="#FFD800">
+                <tspan x="15" y="21">3:4</tspan>
+            </text>
+            <text id="64MP" font-family="Helvetica" font-size="12" font-weight="normal" letter-spacing="0.9" fill="#000000">
+                <tspan x="7" y="35">64MP</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
